@@ -11,10 +11,10 @@ The dataset includes compounds tested against Transthyretin (TTR) within the Tox
 4. Structural data (SMILES) sourced from EPA’s CompTox Chemicals Dashboard and PubChem
 
 ### Team DJT
-| Name | Affilation | Email |
-| :-- | :-- | :-- |
-| Teslim Olayiwola | Louisiana State University | tolayi1@lsu.edu |
-| Andrew Okafor | Louisiana State University | aokafo3@lsu.edu |
+| Name | Title | Affilation | Email |
+| :-- | :-- | :-- | :-- |
+| Teslim Olayiwola | PhD Candidate | Louisiana State University | tolayi1@lsu.edu |
+| Andrew Okafor | PhD Candidate | Louisiana State University | aokafo3@lsu.edu |
 
 ## Plan
 To be added later.
