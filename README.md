@@ -10,7 +10,7 @@ The dataset includes compounds tested against Transthyretin (TTR) within the Tox
 3. Blind set: 300 compounds \
 4. Structural data (SMILES) sourced from EPA’s CompTox Chemicals Dashboard and PubChem
 
-### Team DJT
+### Team TOAO
 | Name | Title | Affilation | Email |
 | :-- | :-- | :-- | :-- |
 | Teslim Olayiwola | PhD Candidate | Louisiana State University | tolayi1@lsu.edu |
