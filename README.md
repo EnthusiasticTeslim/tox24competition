@@ -5,10 +5,12 @@ The Tox24 Challenge aims to advance computational methods for predicting in vitr
 ## Data
 The dataset includes compounds tested against Transthyretin (TTR) within the Tox21 initiative by the EPA:
 
-1. Training set: 1012 compounds \
-2. Leaderboard set: 200 compounds \
-3. Blind set: 300 compounds \
-4. Structural data (SMILES) sourced from EPA’s CompTox Chemicals Dashboard and PubChem
+1. Training set: 1012 compounds (data/tox24_train.csv) \
+2. Leaderboard set: 200 compounds (data/tox24_test.csv) \
+3. Blind set: 300 compounds (data/tox24_test.csv) \
+
+All data containt SMILES sourced from EPA’s CompTox Chemicals Dashboard and PubChem \
+> :warning: **It's our belief that the Leaderboard and Blind are data/tox24_test.csv**. Will be updated as we get more info!
 
 ### Team TOAO
 | Name | Title | Affilation | Email |
